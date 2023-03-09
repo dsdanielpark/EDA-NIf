@@ -8,10 +8,9 @@ Tool for *Exploratory Data Analysis of Neuroimaging Informatics Technology Initi
 `EDA-NIf` creates a dataframe containing meta information of NIfTi file format and provides several useful functions.
 ![](https://github.com/DSDanielPark/EDA-NIf/blob/main/tutorials/result/eda_nif.gif)
 <br>
-The EDA-NIf (Exploratory Data Analysis of Neuroimaging Informatics Technology Initiative(NIfTI) format) is a tool used for analyzing and exploring neuroimaging data in the NIfTI format. The tool provides several useful functions and creates a dataframe containing meta-information of NIfTi file formats. The tool also has several features that are still under development and unit testing, and they will be updated as time permits.
+
 
 # Installation
-To install the EDA-NIf tool, you can use the following command in the command prompt:
   ```cmd
   pip install edanif
   ```
