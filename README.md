@@ -15,7 +15,7 @@ To install the EDA-NIf tool, you can use the following command in the command pr
   ```cmd
   pip install edanif
   ```
-  Beta versions with official documentation are provided starting from major version 1.
+  Official documentation will be provided starting from major version 1.
 <Br><Br>
 
 
