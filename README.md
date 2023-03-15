@@ -3,6 +3,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.6%2C3.7%2C3.8-black.svg)](code_of_conduct.md)
 ![Pypi Version](https://img.shields.io/pypi/v/edanif.svg)
 ![Code convention](https://img.shields.io/badge/code%20convention-pep8-black)
+![EDA-NIF](https://img.shields.io/badge/python-edanif-white)
 
 Tool for *Exploratory Data Analysis of Neuroimaging Informatics Technology Initiative(NIfTI) format* <br>
 `EDA-NIf` creates a dataframe containing meta information of NIfTi file format and provides several useful functions.
@@ -112,3 +113,10 @@ If you enter only the top-level folder containing nifti files, you can get a dat
 ### Contacts
 Maintainer: [Daniel Park, South Korea](https://github.com/DSDanielPark) 
 e-mail parkminwoo1991@gmail.com
+
+<br><br><br><Br>
+
+#### Could you kindly add this badge to your repository? Thank you!
+```
+![EDA-NIF](https://img.shields.io/badge/python-edanif-white)
+```
