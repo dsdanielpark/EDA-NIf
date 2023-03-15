@@ -119,5 +119,5 @@ e-mail parkminwoo1991@gmail.com
 
 #### Could you kindly add this badge to your repository? Thank you!
 ```
-![EDA-NIF](https://img.shields.io/badge/pip-edanif-blue)
+![EDA-NIF](https://img.shields.io/badge/pypi-edanif-blue)
 ```
