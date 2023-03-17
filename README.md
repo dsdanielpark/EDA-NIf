@@ -1,24 +1,27 @@
 # EDA-NIf (EDA NIfTI)
+![EDA-NIF](https://img.shields.io/badge/pypi-edanif-blue)
+![Pypi Version](https://img.shields.io/pypi/v/edanif.svg)
 [![Contributor Covenant](https://img.shields.io/badge/contributor%20covenant-v2.0%20adopted-black.svg)](code_of_conduct.md)
 [![Python Version](https://img.shields.io/badge/python-3.6%2C3.7%2C3.8-black.svg)](code_of_conduct.md)
-![Pypi Version](https://img.shields.io/pypi/v/edanif.svg)
 ![Code convention](https://img.shields.io/badge/code%20convention-pep8-black)
+
 
 Tool for *Exploratory Data Analysis of Neuroimaging Informatics Technology Initiative(NIfTI) format* <br>
 `EDA-NIf` creates a dataframe containing meta information of NIfTi file format and provides several useful functions.
 ![](https://github.com/DSDanielPark/EDA-NIf/blob/main/tutorials/result/eda_nif.gif)
 <br>
 
+
 # Installation
   ```cmd
   pip install edanif
   ```
-  Beta versions with official documentation are provided starting from major version 1.
+  Official documentation will be provided starting from major version 1.
 <Br><Br>
 
 
 # Tutorial
-We provide tutorial notebooks for all the features we offer. We plan to provide additional docstrings or documentation from the official distribution version (major version 1 or higher).
+I will provide tutorial notebooks for all the features I made. I have a plan to write additional documentation with official release version (major version 1 or higher).
 
 1. Main-tutorials: https://github.com/DSDanielPark/EDA-NIf/blob/main/tutorials/edanif_tutorial.ipynb
 2. Sub-tutorial-folder: https://github.com/DSDanielPark/EDA-NIf/tree/main/tutorials
@@ -111,3 +114,10 @@ If you enter only the top-level folder containing nifti files, you can get a dat
 ### Contacts
 Maintainer: [Daniel Park, South Korea](https://github.com/DSDanielPark) 
 e-mail parkminwoo1991@gmail.com
+
+<br><br><br><Br>
+
+#### Could you kindly add this badge to your repository? Thank you!
+```
+![EDA-NIF](https://img.shields.io/badge/pypi-edanif-blue)
+```
