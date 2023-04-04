@@ -46,3 +46,4 @@ __all__ = ["count_center_voxel_labels",
             ]
 
 __version__ = "0.1.7"
+__author__ = "MinWoo Park <parkminwoo1991@gmail.com>"
