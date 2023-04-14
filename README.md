@@ -1,3 +1,7 @@
+Development Status :: 3 - Alpha <br>
+*Copyright (c) 2023 MinWoo Park*
+<br>
+
 # EDA-NIf (EDA NIfTI)
 ![EDA-NIF](https://img.shields.io/badge/pypi-edanif-blue)
 ![Pypi Version](https://img.shields.io/pypi/v/edanif.svg)
