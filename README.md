@@ -114,6 +114,8 @@ If you enter only the top-level folder containing nifti files, you can get a dat
 
 <br>
 
+# Use Case
+[1] MICCAI 2022 - Brain Stroke Segmentation https://github.com/dsdanielpark/miccai2022-stroke-segmentation 
 
 ### Contacts
 Maintainer: [Daniel Park, South Korea](https://github.com/DSDanielPark) 
