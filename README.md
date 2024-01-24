@@ -13,7 +13,6 @@ Development Status :: 3 - Alpha <br>
 Tool for *Exploratory Data Analysis of Neuroimaging Informatics Technology Initiative(NIfTI) format* <br>
 `EDA-NIf` creates a dataframe containing meta information of NIfTi file format and provides several useful functions.
 ![](https://github.com/DSDanielPark/EDA-NIf/blob/main/tutorials/result/eda_nif.gif)
-![](https://github.com/DSDanielPark/EDA-NIf/blob/main/assets/chatgpt4.png)
 <br>
 
 
